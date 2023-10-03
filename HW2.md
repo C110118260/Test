@@ -37,7 +37,9 @@ digraph {
     no4->no5
 }
 ```
+![PERT](PERT.png "PERT")
 ## 關鍵路徑
+1>2>4>5
 
 
 
