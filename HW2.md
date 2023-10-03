@@ -22,7 +22,7 @@ gantt
 ## PERT/CPM圖
 ![PERT](PERTHW2.png "PERT")
 ## 關鍵路徑
-1>2>4>5
+1>2>4>6>9>11
 
 
 
